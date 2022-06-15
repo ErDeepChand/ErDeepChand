@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deep Chand.
-- 👀 I’m interested in learning new things and expermenting the opportunities.
+- 👀 I’m interested in learning new things together and collabrate in community.
 - 🌱 I’m currently learning iOS developement.
 - 💞️ I’m looking to collaborate on real time streaming.
 - 📫 How to reach me by linkedIn(https://www.linkedin.com/in/deepchandsharma/)
